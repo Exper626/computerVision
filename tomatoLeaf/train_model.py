@@ -6,7 +6,7 @@ model = YOLO('yolov8n.pt')
 # Train the model using the dataset
 model.train(
     data='E:/computerVision/tomatoLeaf/data.yaml',
-    epochs=50,
+    epochs=5,
     imgsz=640,
     batch=16
 )
