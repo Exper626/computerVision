@@ -1,0 +1,19 @@
+cv_agriculture_project/
+├── experiments/
+│   ├── exp1_classical_segmentation/
+│   ├── exp2_svm_handcrafted/
+│   ├── exp3_yolo_detection/
+├── datasets/
+│   ├── weed_crop_dataset/
+│   ├── plant_disease/
+│   ├── fruit_detection/
+├── models/
+│   ├── unet/
+│   ├── resnet_classifier/
+│   ├── yolov8/
+├── notebooks/
+│   ├── EDA.ipynb
+├── papers/
+│   └── references.bib
+├── requirements.txt
+├── README.md
